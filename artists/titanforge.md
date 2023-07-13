@@ -2,7 +2,7 @@
 title: Titan Forge
 layout: home
 nav_order: 3
-parent: artists.md
+parent: artists
 has_children: true
 has_toc: false
 ---
