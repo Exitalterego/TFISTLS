@@ -10,3 +10,4 @@ grand_parent: Artists
 <video autoplay="autoplay" loop="loop" width="768" height="512">
   <source src="/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm">
 </video>
+{% video /assets/webm/infiniteheroes/highelves/Almanarea.webm [500 625] [/assets/webm/infiniteheroes/highelves/Almanarea.webm] %}
