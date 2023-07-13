@@ -2,7 +2,7 @@
 title: Heroes Infinite
 layout: home
 nav_order: 2
-parent: artists
+parent: Artists
 has_children: true
 has_toc: false
 ---
