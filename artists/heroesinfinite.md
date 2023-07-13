@@ -6,3 +6,4 @@ parent: artists.md
 has_children: true
 has_toc: false
 ---
+test
