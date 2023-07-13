@@ -1,7 +1,16 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+
+If you have somehow managed to find this page, welcome! This site is an repository/database showcasing the STL's files I have purchased over time for 3D printing. These files have been sourced from various sites and multiple creators and honestly, trying to remember exactly what I have in my collection has become far too challenging. So with this site I aim to have in one location, renders and associated searchable keywords that will then point me back to the original STL files.
+
+It's worth noting that I do not host any STL's here, so if you've stumbled upon here, you won't find access to the printable assets.
+
+\- Exitalterego {: .float-right }
+
+----
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
