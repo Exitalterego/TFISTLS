@@ -10,12 +10,12 @@ grand_parent: Artists
   <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
 </video>
 #### Keywords
-Heroes Infinite {: .label .label-blue}
-Elf {: .label .label-green}
-Wizard {: .label .label-yellow}
+Heroes Infinite {: .label .label-blue }
+Elf {: .label .label-green }
+Wizard {: .label .label-yellow }
 40mm Base
 Sculpted Base
 Female
 Staff
-Presupported {: .label .label-red}
+Presupported {: .label .label-red }
 PC, NPC, Fantasy
