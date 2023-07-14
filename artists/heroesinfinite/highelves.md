@@ -19,9 +19,7 @@ Elf
 Wizard 
 {: .label .label-yellow }
 
-40mm Base, Sculpted Base, Female, Staff
-
 Presupported 
 {: .label .label-red }
 
-PC, NPC, Fantasy
+40mm Base, Sculpted Base, Female, Staff, PC, NPC, Fantasy
