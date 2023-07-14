@@ -44,18 +44,3 @@ grand_parent: Artists
     </tr>
   </tbody>
 </table>
-
-### Almanarea, Battle Mage
-<video width='500' height='625' preload='auto' autoplay muted loop>
-  <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
-</video>
-#### Keywords
-Elf 
-{: .label .label-green }
-
-Wizard 
-{: .label .label-yellow }
-
-Presupported 
-{: .label .label-red }
-32mm Base, Sculpted Base, Female, Staff, PC, NPC, Fantasy
