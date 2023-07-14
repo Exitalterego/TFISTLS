@@ -5,9 +5,9 @@ nav_order: 2
 parent: Heroes Infinite
 grand_parent: Artists
 ---
-## Almanarea, Battle Mage
-{% video https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm 500 625 /assets/webp/infiniteheroes/highelves/Almanarea.webp %}
-
-<video width='500' height='625' preload='auto' autoplay muted>
+### Almanarea, Battle Mage
+<video width='500' height='625' preload='auto' autoplay muted loop>
   <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
 </video>
+#### Keywords
+Heroes Infinite, Elf, Wizard, 40mm Base, Sculpted Base, Female, Staff, Presupported, PC, NPC, Fantasy
