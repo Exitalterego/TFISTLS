@@ -26,6 +26,18 @@ grand_parent: Artists
         </video>        
       </td>
     </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Wizard</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Fighter</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -34,9 +46,6 @@ grand_parent: Artists
   <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
 </video>
 #### Keywords
-Heroes Infinite 
-{: .label .label-blue }
-
 Elf 
 {: .label .label-green }
 
