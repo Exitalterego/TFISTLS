@@ -21,4 +21,4 @@ Wizard
 
 Presupported 
 {: .label .label-red }
-40mm Base, Sculpted Base, Female, Staff, PC, NPC, Fantasy
+32mm Base, Sculpted Base, Female, Staff, PC, NPC, Fantasy
