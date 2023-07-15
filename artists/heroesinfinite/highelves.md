@@ -44,3 +44,40 @@ grand_parent: Artists
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Altheann, Etheral Seer</th>
+      <th>Placeholder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <video width='500' height='625' preload='auto' autoplay muted loop>
+          <source src="/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
+        </video>
+      </td>
+      <td>        
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Wizard</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Tag1</p>
+        <p class="label label-yellow">Tag2</p>
+        <p class="label label-red">Tag3</p>
+      </td>
+    </tr>
+    <tr>
+      <td>25mm Base, Sculpted Base, Female, Unarmed, PC, NPC, Fantasy, Risque</td>
+      <td>Placeholder</td>
+    </tr>
+  </tbody>
+</table>
+
