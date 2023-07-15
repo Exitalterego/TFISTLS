@@ -56,7 +56,7 @@ grand_parent: Artists
     <tr>
       <td>
         <video width='500' height='625' preload='auto' autoplay muted loop>
-          <source src="/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
+          <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
       <td>        
