@@ -3,3 +3,21 @@
     width: calc((70% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
   }
 }
+
+.main {
+  @include mq(md) {
+    position: relative;
+    max-width: $content-width;
+    margin-left: $nav-width-md;
+  }
+
+  @include mq(lg) {
+    // stylelint-disable function-name-case
+    // disable for Max(), we want to use the CSS max() function
+    margin-left: Max(
+      #{$nav-width},
+      calc((70% - #{$nav-width + $content-width}) / 2 + #{$nav-width})
+    );
+    // stylelint-enable function-name-case
+  }
+}
