@@ -49,7 +49,7 @@ grand_parent: Artists
   <thead>
     <tr>
       <th>Altheann, Etheral Seer</th>
-      <th>Placeholder</th>
+      <th>Elvaerion, Grand Master Mage</th>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +59,49 @@ grand_parent: Artists
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
-      <td>        
+      <td>
+        <video width='500' height='625' preload='auto' autoplay muted loop>
+          <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elvaerion.webm" type="video/webm; codecs=vp8, vorbis">
+        </video>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Wizard</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Tag1</p>
+        <p class="label label-yellow">Tag2</p>
+        <p class="label label-red">Tag3</p>
+      </td>
+    </tr>
+    <tr>
+      <td>25mm Base, Sculpted Base, Female, Unarmed, PC, NPC, Fantasy, Risque</td>
+      <td>Placeholder</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Elvanariah, Wind Mistress</th>
+      <th>Erlanthii, Mistress of Stone and Earth</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <video width='500' height='625' preload='auto' autoplay muted loop>
+          <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elvanariah.webm" type="video/webm; codecs=vp8, vorbis">
+        </video>
+      </td>
+      <td>
+        <video width='500' height='625' preload='auto' autoplay muted loop>
+          <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Erlanthii.webm" type="video/webm; codecs=vp8, vorbis">
+        </video>
       </td>
     </tr>
     <tr>
