@@ -11,21 +11,31 @@ grand_parent: Artists
     <tr>
       <th>Almanarea, Battle Mage</th>
       <th>Altanarion, The Ever Reborn King</th>
+      <th>Altanarion, The Ever Reborn King</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Altanarion.webm" target="_blank">
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Almanarea.webm" target="_blank">
           <video width='300' height='375' preload='auto' autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
-        <video width='300' height='375' preload='auto' autoplay muted loop>
-          <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altanarion.webm" type="video/webm; codecs=vp8, vorbis">
-        </video>        
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Altanarion.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altanarion.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Altheann.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
       </td>
     </tr>
     <tr>
