@@ -16,12 +16,12 @@ grand_parent: Artists
   <tbody>
     <tr>
       <td>
-        <video width='500' height='625' preload='auto' autoplay muted loop>
+        <video width='100' height='125' preload='auto' autoplay muted loop>
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
       <td>
-        <video width='500' height='625' preload='auto' autoplay muted loop>
+        <video width='100' height='125' preload='auto' autoplay muted loop>
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altanarion.webm" type="video/webm; codecs=vp8, vorbis">
         </video>        
       </td>
@@ -55,12 +55,12 @@ grand_parent: Artists
   <tbody>
     <tr>
       <td>
-        <video width='500' height='625' preload='auto' autoplay muted loop>
+        <video width='100' height='125' preload='auto' autoplay muted loop>
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
       <td>
-        <video width='500' height='625' preload='auto' autoplay muted loop>
+        <video width='100' height='125' preload='auto' autoplay muted loop>
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elvaerion.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
@@ -94,12 +94,12 @@ grand_parent: Artists
   <tbody>
     <tr>
       <td>
-        <video width='500' height='625' preload='auto' autoplay muted loop>
+        <video width='100' height='125' preload='auto' autoplay muted loop>
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elvanariah.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
       <td>
-        <video width='500' height='625' preload='auto' autoplay muted loop>
+        <video width='100' height='125' preload='auto' autoplay muted loop>
           <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Erlanthii.webm" type="video/webm; codecs=vp8, vorbis">
         </video>
       </td>
