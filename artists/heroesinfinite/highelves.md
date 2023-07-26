@@ -114,8 +114,8 @@ grand_parent: Artists
     </tr>
     <tr>
       <td>32mm Base, Sculpted Base, Male, Staff, Sword, PC, NPC, Fantasy</td>
-      <td>40mm Base, Sculpted Base, Female, Unarmed, NPC, Wind, Fantasy</td>
-      <td>40mm Base, Sculpted Base, Female, Staff, NPC, Stone, Earth, Fantasy</td>
+      <td>36mm Base, Sculpted Base, Female, Unarmed, NPC, Wind, Fantasy</td>
+      <td>36mm Base, Sculpted Base, Female, Staff, NPC, Stone, Earth, Fantasy</td>
     </tr>
   </tbody>
 </table>
