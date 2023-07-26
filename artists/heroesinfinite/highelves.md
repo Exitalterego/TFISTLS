@@ -5,7 +5,7 @@ nav_order: 2
 parent: Heroes Infinite
 grand_parent: Artists
 ---
-
+## Heroes
 <table>
   <thead>
     <tr>
