@@ -18,7 +18,7 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Almanarea.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Almanarea.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Almanarea.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
