@@ -25,14 +25,14 @@ grand_parent: Artists
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Altanarion.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Altanarion.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altanarion.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Altheann.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Altheann.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Altheann.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -75,21 +75,21 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Elvaerion.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Elvaerion.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elvaerion.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Elvanariah.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Elvanariah.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elvanariah.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Erlanthii.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Erlanthii.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Erlanthii.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -132,21 +132,21 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Sylderyn.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Sylderyn.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Sylderyn.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Traelion.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Traelion.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Traelion.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Valnaiir.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Valnaiir.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Valnaiir.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -189,21 +189,21 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/lovers_couple_with.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/lovers_couple_with.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/lovers_couple_with.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/lovers_couple_without.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/lovers_couple_without.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/lovers_couple_without.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Artheon.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Artheon.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Artheon.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
