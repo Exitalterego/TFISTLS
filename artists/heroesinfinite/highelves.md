@@ -103,7 +103,7 @@ grand_parent: Artists
       </td>
       <td>
         <p class="label label-green">Elf</p>
-        <p class="label label-yellow">Fighter</p>
+        <p class="label label-yellow">Wizard</p>
         <p class="label label-red">Presupported</p>
       </td>
       <td>
@@ -114,8 +114,8 @@ grand_parent: Artists
     </tr>
     <tr>
       <td>32mm Base, Sculpted Base, Male, Staff, Sword, PC, NPC, Fantasy</td>
-      <td>40mm Base, Sculpted Base, Male, Swords, Dual Wielding, NPC, Fantasy</td>
-      <td>25mm Base, Sculpted Base, Female, Staff, NPC, Stone, Earth, Fantasy</td>
+      <td>40mm Base, Sculpted Base, Female, Unarmed, NPC, Wind, Fantasy</td>
+      <td>40mm Base, Sculpted Base, Female, Staff, NPC, Stone, Earth, Fantasy</td>
     </tr>
   </tbody>
 </table>
@@ -155,12 +155,12 @@ grand_parent: Artists
     <tr>
       <td>
         <p class="label label-green">Elf</p>
-        <p class="label label-yellow">Wizard</p>
+        <p class="label label-yellow">Fighter</p>
         <p class="label label-red">Presupported</p>
       </td>
       <td>
         <p class="label label-green">Elf</p>
-        <p class="label label-yellow">Fighter</p>
+        <p class="label label-yellow">Arcane Fighter</p>
         <p class="label label-red">Presupported</p>
       </td>
       <td>
@@ -170,8 +170,8 @@ grand_parent: Artists
       </td>
     </tr>
     <tr>
-      <td>32mm Base, Sculpted Base, Female, Staff, PC, NPC, Fantasy</td>
-      <td>40mm Base, Sculpted Base, Male, Swords, Dual Wielding, NPC, Fantasy</td>
+      <td>32mm Base, Sculpted Base, Male, Sword, PC, NPC, Birds, Wind, Fantasy</td>
+      <td>25mm Base, Sculpted Base, Male, Spear, Staff, PC, NPC, Ink, Paint, Fantasy</td>
       <td>40mm Base, Sculpted Base, Male, Swords, Dual Wielding, NPC, Fantasy</td>
     </tr>
   </tbody>
