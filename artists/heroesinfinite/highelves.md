@@ -172,7 +172,7 @@ grand_parent: Artists
     <tr>
       <td>32mm Base, Sculpted Base, Male, Sword, PC, NPC, Birds, Wind, Fantasy</td>
       <td>25mm Base, Sculpted Base, Male, Spear, Staff, PC, NPC, Ink, Paint, Fantasy</td>
-      <td>40mm Base, Sculpted Base, Male, Swords, Dual Wielding, NPC, Fantasy</td>
+      <td>25mm Base, Sculpted Base, Male, Sword, Staff, Dual Wielding, NPC, Fantasy</td>
     </tr>
   </tbody>
 </table>
