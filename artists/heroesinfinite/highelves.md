@@ -177,3 +177,230 @@ grand_parent: Artists
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>War Cursed Couple (with helmet)</th>
+      <th>War Cursed Couple (without helmet)</th>
+      <th>Artheon, The Revenger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/lovers_couple_with.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/lovers_couple_with.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/lovers_couple_without.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/lovers_couple_without.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Artheon.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Artheon.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Multi Character</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Multi Character</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Fighter</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+    </tr>
+    <tr>
+      <td>40mm Base, Sculpted Base, Male, Female, Sword, Staff, NPC, Birds, Fantasy</td>
+      <td>40mm Base, Sculpted Base, Male, Female, Sword, Staff, NPC, Birds, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Male, Axe, Dual Wielding, NPC, Lion, Fantasy</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Beltheriah, Tempest Warlock</th>
+      <th>Elsanthi, The Supreme Blade</th>
+      <th>Elsanthi, Epic Version</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Beltheriah.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Beltheriah.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Elsanthi.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elsanthi.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Elsanthi_bonus.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elsanthi_bonus.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Warlock</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Fighter</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Fighter</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+    </tr>
+    <tr>
+      <td>XXmm Base, Sculpted Base, Female, Spear, PC, NPC, Owl, Birds, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Female, Sword, PC, NPC, Banner, Lion, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Epic Version, Female, Sword, NPC, Banner, Lion, Birds, Fantasy</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Fareth, Battle Banner</th>
+      <th>Kereem, Fire Fox Spirit</th>
+      <th>Marlaharn, The Hammer of Smite</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Fareth.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Fareth.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Kereem.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Kereem.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Marlaharn.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Marlaharn.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Fighter</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Werewolf</p>
+        <p class="label label-yellow">Arcane Archer</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Fighter</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+    </tr>
+    <tr>
+      <td>XXmm Base, Sculpted Base, Male?, Sword, NPC, Banner, Griffon, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Male, Long Bow, NPC, Fire, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Male, Warhammer, NPC, Birds, Fantasy</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Queen Yelshaniah</th>
+      <th>Sevliah, The Arrow of Truth</th>
+      <th>Zishanna, Fire Fox Spirit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Yelshaniah.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Yelshaniah.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Sevliah.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Sevliah.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Zishanna.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Zishanna.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Wizard</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Ranger</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Werewolf</p>
+        <p class="label label-yellow">Arcane Archer</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+    </tr>
+    <tr>
+      <td>XXmm Base, Sculpted Base, Female, Staff, NPC, Risque, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Female, Long Bow, PC, NPC, Fantasy</td>
+      <td>XXmm Base, Sculpted Base, Female, Long Bow, NPC, Fire, Fantasy</td>
+    </tr>
+  </tbody>
+</table>
