@@ -229,7 +229,7 @@ grand_parent: Artists
     <tr>
       <td>40mm Base, Sculpted Base, Male, Female, Sword, Staff, NPC, Birds, Fantasy</td>
       <td>40mm Base, Sculpted Base, Male, Female, Sword, Staff, NPC, Birds, Fantasy</td>
-      <td>XXmm Base, Sculpted Base, Male, Axe, Dual Wielding, NPC, Lion, Fantasy</td>
+      <td>28mm Base, Sculpted Base, Male, Axe, Dual Wielding, NPC, Lion, Fantasy</td>
     </tr>
   </tbody>
 </table>
@@ -284,7 +284,7 @@ grand_parent: Artists
       </td>
     </tr>
     <tr>
-      <td>XXmm Base, Sculpted Base, Female, Spear, PC, NPC, Owl, Birds, Fantasy</td>
+      <td>28mm Base, Sculpted Base, Female, Spear, PC, NPC, Owl, Birds, Fantasy</td>
       <td>XXmm Base, Sculpted Base, Female, Sword, PC, NPC, Banner, Lion, Fantasy</td>
       <td>XXmm Base, Sculpted Base, Epic Version, Female, Sword, NPC, Banner, Lion, Birds, Fantasy</td>
     </tr>
