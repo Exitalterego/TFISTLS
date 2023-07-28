@@ -286,7 +286,7 @@ grand_parent: Artists
     <tr>
       <td>28mm Base, Sculpted Base, Female, Spear, PC, NPC, Owl, Birds, Fantasy</td>
       <td>28mm Base, Sculpted Base, Female, Sword, PC, NPC, Banner, Lion, Fantasy</td>
-      <td>XXmm Base, Sculpted Base, Epic Version, Female, Sword, NPC, Banner, Lion, Birds, Fantasy</td>
+      <td>28mm Base, Sculpted Base, Epic Version, Female, Sword, NPC, Banner, Lion, Birds, Fantasy</td>
     </tr>
   </tbody>
 </table>
