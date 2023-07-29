@@ -341,8 +341,8 @@ grand_parent: Artists
       </td>
     </tr>
     <tr>
-      <td>XXmm Base, Sculpted Base, Male?, Sword, NPC, Banner, Griffon, Fantasy</td>
-      <td>XXmm Base, Sculpted Base, Male, Long Bow, NPC, Fire, Fantasy</td>
+      <td>32mm Base, Sculpted Base, Male, Sword, NPC, Banner, Griffon, Fantasy</td>
+      <td>50mm Base, Sculpted Base, Male, Long Bow, NPC, Fire, Fantasy</td>
       <td>XXmm Base, Sculpted Base, Male, Warhammer, NPC, Birds, Fantasy</td>
     </tr>
   </tbody>
