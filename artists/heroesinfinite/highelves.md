@@ -424,9 +424,9 @@ grand_parent: Artists
         </a>
       </td>
       <td>
-        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/mounted_archers.webm" target="_blank">
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" target="_blank">
           <video height='375' preload='auto' autoplay muted loop>
-            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/mounted_archers.webm" type="video/webm; codecs=vp8, vorbis">
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
