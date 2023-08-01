@@ -417,23 +417,23 @@ grand_parent: Artists
   <tbody>
     <tr>
       <td>
-        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Aeolian_Archers.webm" target="_blank">
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" target="_blank">
           <video height='375' preload='auto' autoplay muted loop>
-            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Aeolian_Archers.webm" type="video/webm; codecs=vp8, vorbis">
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
-        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Mounted_Archers.webm" target="_blank">
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/mounted_archers.webm" target="_blank">
           <video height='375' preload='auto' autoplay muted loop>
-            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Mounted_Archers.webm" type="video/webm; codecs=vp8, vorbis">
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/mounted_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
-        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Alterian_Swords.webm" target="_blank">
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/alterian_swords.webm" target="_blank">
           <video width='300' height='375' preload='auto' autoplay muted loop>
-            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Alterian_Swords.webm" type="video/webm; codecs=vp8, vorbis">
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/alterian_swords.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
