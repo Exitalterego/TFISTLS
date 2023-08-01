@@ -404,3 +404,61 @@ grand_parent: Artists
     </tr>
   </tbody>
 </table>
+
+## Troops
+<table>
+  <thead>
+    <tr>
+      <th>Aeolian Archers</th>
+      <th>Aeolian Mounted Archers</th>
+      <th>Alterian Sword Wielders</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Aeolian_Archers.webm" target="_blank">
+          <video height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Aeolian_Archers.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Mounted_Archers.webm" target="_blank">
+          <video height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Mounted_Archers.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+      <td>
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Alterian_Swords.webm" target="_blank">
+          <video width='300' height='375' preload='auto' autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Alterian_Swords.webm" type="video/webm; codecs=vp8, vorbis">
+          </video>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Wizard</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Elf</p>
+        <p class="label label-yellow">Ranger</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+      <td>
+        <p class="label label-green">Werewolf</p>
+        <p class="label label-yellow">Arcane Archer</p>
+        <p class="label label-red">Presupported</p>
+      </td>
+    </tr>
+    <tr>
+      <td>32mm Base, Sculpted Base, Female, Staff, NPC, Risque, Fantasy</td>
+      <td>25mm Base, Sculpted Base, Female, Long Bow, PC, NPC, Fantasy</td>
+      <td>50mm Base, Sculpted Base, Female, Long Bow, NPC, Fox, Fire, Fantasy</td>
+    </tr>
+  </tbody>
+</table>
