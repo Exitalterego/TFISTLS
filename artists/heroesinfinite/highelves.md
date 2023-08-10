@@ -246,21 +246,21 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Beltheriah.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Beltheriah.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Beltheriah.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Elsanthi.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Elsanthi.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elsanthi.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Elsanthi_bonus.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Elsanthi_bonus.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Elsanthi_bonus.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -303,21 +303,21 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Fareth.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Fareth.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Fareth.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Kereem.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Kereem.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Kereem.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Marlaharn.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Marlaharn.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Marlaharn.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -360,21 +360,21 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Yelshaniah.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Yelshaniah.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Yelshaniah.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Sevliah.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Sevliah.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Sevliah.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/Zishanna.webm" target="_blank">
-          <video width='300' height='375' preload='auto' autoplay muted loop>
+          <video width='300' height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/Zishanna.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/Zishanna.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -417,14 +417,14 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" target="_blank">
-          <video height='375' preload='auto' autoplay muted loop>
+          <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/aeolian_archers.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/mounted_archers.webm" target="_blank">
-          <video height='375' preload='auto' autoplay muted loop>
+          <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/mounted_archers.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/mounted_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
@@ -461,15 +461,15 @@ grand_parent: Artists
     <tr>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/alterian_swords.webm" target="_blank">
-          <video height='375' preload='auto' autoplay muted loop>
+          <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/alterian_swords.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/alterian_swords.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
       <td>
-        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" target="_blank">
-          <video height='375' preload='auto' autoplay muted loop>
-            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/mounted_archers.webm" type="video/webm; codecs=vp8, vorbis">
+        <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/fyrolian_spears.webm" target="_blank">
+          <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/fyrolian_spearss.webp" autoplay muted loop>
+            <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/fyrolian_spears.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
       </td>
