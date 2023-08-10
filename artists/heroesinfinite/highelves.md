@@ -460,11 +460,13 @@ grand_parent: Artists
   <tbody>
     <tr>
       <td>
+        <p align="centre">
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/alterian_swords.webm" target="_blank">
           <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/alterian_swords.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/alterian_swords.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
+        </p>
       </td>
       <td>
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/fyrolian_spears.webm" target="_blank">
