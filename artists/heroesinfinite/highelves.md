@@ -416,18 +416,22 @@ grand_parent: Artists
   <tbody>
     <tr>
       <td>
+        <p align="center">
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" target="_blank">
           <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/aeolian_archers.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/aeolian_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
+        </p>
       </td>
       <td>
+        <p align="center">
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/mounted_archers.webm" target="_blank">
           <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/mounted_archers.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/mounted_archers.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
+        </p>
       </td>
     </tr>
     <tr>
@@ -469,11 +473,13 @@ grand_parent: Artists
         </p>
       </td>
       <td>
+        <p align="center">
         <a href="https://exitalterego.github.io/tfistls/assets/webm/infiniteheroes/highelves/fyrolian_spears.webm" target="_blank">
           <video height='375' preload='auto' poster="https://github.com/Exitalterego/tfistls/raw/main/assets/webp/infiniteheroes/highelves/fyrolian_spearss.webp" autoplay muted loop>
             <source src="https://github.com/Exitalterego/tfistls/raw/main/assets/webm/infiniteheroes/highelves/fyrolian_spears.webm" type="video/webm; codecs=vp8, vorbis">
           </video>  
         </a>
+        </p>
       </td>
     </tr>
     <tr>
